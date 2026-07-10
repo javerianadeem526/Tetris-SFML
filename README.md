@@ -1,6 +1,6 @@
 # Tetris Game (C++ + SFML)
 
-A desktop implementation of the classic **Tetris** game developed in **C++** using the **SFML (Simple and Fast Multimedia Library)**. This project was created to strengthen my understanding of game development, object-oriented programming concepts, and event-driven programming.
+A desktop implementation of the classic **Tetris** game developed in **C++** using the **SFML (Simple and Fast Multimedia Library)**. This project was created to strengthen my understanding of game development and C++ Basics.
 
 ---
 
